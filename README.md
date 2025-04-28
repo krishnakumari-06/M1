@@ -10,8 +10,14 @@ Write a C program to read 3 characters one by one and print the characters in a 
 4.	End the program.
 
 ## PROGRAM:
+![image](https://github.com/user-attachments/assets/b3feacd9-4ced-45e1-b3a1-9165ec4c27a7)
+## INPUT:
+![image](https://github.com/user-attachments/assets/09104e90-82d5-4a4a-932c-9210e85e9f18)
+
 
 ## OUTPUT:
+![image](https://github.com/user-attachments/assets/4c6904f7-5635-46ea-9d54-8fe5b0da0518)
+
 
 
 
@@ -46,10 +52,15 @@ Write a C program to read A values and check whether A is positive number or not
 6.End the program.
 
 # PROGRAM:
+![image](https://github.com/user-attachments/assets/4f97d54e-5428-47a3-b717-e7e796a33c1b)
+##INPUT:
+![image](https://github.com/user-attachments/assets/af2fde72-f21a-49e7-a075-291751789aab)
+
 
 # OUTPUT:
 
 
+![image](https://github.com/user-attachments/assets/5d885983-8591-4b9f-8301-dc8ffd193797)
 
 
 
@@ -80,9 +91,14 @@ Write a program to find minimum between two fraction numbers using conditional o
 7.	Print the minimum value.
 
 ## PROGRAM:
+![image](https://github.com/user-attachments/assets/8371b03c-8c00-4872-84e5-1b0424b26f88)
+##INPUT:
+
+![image](https://github.com/user-attachments/assets/9b9400e7-eef8-4ecb-8f41-f487c9826818)
 
 ## OUTPUT:
 
+![image](https://github.com/user-attachments/assets/7cc140ac-e723-4448-a039-5b9fa0024f95)
 
 
 
@@ -111,11 +127,16 @@ Write a C program to check whether the input value is equal to 1 using simple if
 6.	End the program.
 
 ## PROGRAM:
+![image](https://github.com/user-attachments/assets/5dee3d90-ac31-4a04-bda3-fbef2c790137)
+
+##INPUT:
+![image](https://github.com/user-attachments/assets/4beea6f3-8f93-4245-ba14-827ed2ec4290)
 
 ## OUTPUT:
 
 
 
+![image](https://github.com/user-attachments/assets/b6e51fbc-4b79-4c4c-a9c7-cbca90819cfb)
 
 
 
@@ -147,8 +168,14 @@ c.	Else if percentage >= 36: Print “Division = Pass”
 9.	Else: Print “Division = Fail”
 10.	End
 ## PROGRAM:
+![image](https://github.com/user-attachments/assets/d4f4c97f-ce20-4a73-97a7-5720691bf8c4)
+##INPUT:
+![image](https://github.com/user-attachments/assets/5d6194c1-b187-43c0-9da5-98d60041ca7b)
+
 
 ## OUTPUT:
+![image](https://github.com/user-attachments/assets/2cabd9d0-f138-42a2-8684-21b5251889e5)
+
 
 ## RESULT:
 The program successfully takes three subject marks, calculates the total and percentage, and correctly determines the division based on predefined grading logic.
